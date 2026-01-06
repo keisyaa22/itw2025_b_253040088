@@ -1,0 +1,29 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+  background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)),
+    url('https://images.unsplash.com/photo-1509440159596-0249088772ff') center/cover;
+  height: 100vh;
+  color: white;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.section-title {
+  font-weight: 600;
+  color: #c2185b;
+}
+
+.bg-pink {
+  background-color: #fce4ec;
+}
+
+.product-card img {
+  height: 200px;
+  object-fit: cover;
+}
